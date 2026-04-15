@@ -94,9 +94,14 @@ sudo rmmod monitor
 
 ![Memory limit enforcement](screenshots/memory_limit_enforcement.png)
 
+
 **Screenshot 7 — Scheduling experiments**
 
 ![Scheduling experiments](screenshots/scheduling_experiments.png)
+
+**Screenshot 8 — Clean teardown: no zombies + module unloaded**
+
+![Clean teardown](screenshots/clean_teardown.png)
 
 ---
 
