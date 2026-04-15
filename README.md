@@ -1,8 +1,7 @@
 |           Name          |      SRN      |
 |-------------------------|---------------|
-| TARUN GOWDA P           | PES1UG24AM303 |
-| TANISHK GOWDA           | PES1UG24AM301 |
-| TARUN J                 | PES1UG24AM304 |
+| YOUR NAME HERE          | YOUR SRN HERE |
+| PARTNER NAME (if any)   | PARTNER SRN   |
 
 ---
 
@@ -68,52 +67,36 @@ sudo ./engine stop beta
 ps aux | grep defunct
 sudo rmmod monitor
 ```
+
 ---
 
 **Screenshot 1 — Supervisor running with two containers registered**
 
-<!-- ![Supervisor startup](screenshots/supervisor_startup.jpeg) -->
-_TODO: '/root/OS-Jackfruit/screenshots/Pasted image (10).png'  
+![Supervisor startup](screenshots/supervisor_startup.png)
 
 **Screenshot 2 — `engine ps` showing both containers running**
 
-<!-- ![PS output](screenshots/engine_ps_output.jpeg) -->
-_TODO: '/root/OS-Jackfruit/screenshots/Pasted image (3).png' 
+![PS output](screenshots/engine_ps_output.png)
 
 **Screenshot 3 — `engine logs` output**
 
-<!-- ![Logs output](screenshots/engine_logs.jpeg) -->
-_TODO: '/root/OS-Jackfruit/screenshots/Pasted image (4).png' 
+![Logs output](screenshots/engine_logs.png)
 
 **Screenshot 4 — `engine stop` command**
 
-<!-- ![Stop command](screenshots/engine_stop.jpeg) -->
-_TODO: '/root/OS-Jackfruit/screenshots/Pasted image (11).png' 
+![Stop command](screenshots/engine_stop.png)
 
 **Screenshot 5 — Supervisor response to stop**
 
-<!-- ![Supervisor SIGKILL](screenshots/supervisor_sigkill.jpeg) -->
-_TODO: '/root/OS-Jackfruit/screenshots/Pasted image (12).png' 
+![Supervisor SIGKILL](screenshots/supervisor_sigkill.png)
 
 **Screenshot 6 — Memory limits: SOFT LIMIT + HARD LIMIT + logs**
 
-<!-- ![Memory limit enforcement](screenshots/memory_limit_enforcement.jpeg) -->
-_TODO: '/root/OS-Jackfruit/screenshots/Pasted image (14).png'  
+![Memory limit enforcement](screenshots/memory_limit_enforcement.png)
 
 **Screenshot 7 — Scheduling experiments**
 
-<!-- ![Scheduling experiments](screenshots/scheduling_experiments.jpeg) -->
-_TODO: '/root/OS-Jackfruit/screenshots/Pasted image (15).png' 
-
-**Screenshot 8 — Clean teardown: no zombies + module unloaded**
-
-<!-- ![Clean teardown](screenshots/clean_teardown.jpeg) -->
-_TODO: '/root/OS-Jackfruit/screenshots/Pasted image (16).png' 
-
-**Screenshot 9 — Supervisor full lifecycle**
-
-<!-- ![Supervisor lifecycle](screenshots/supervisor_lifecycle.jpeg) -->
-_TODO: '/root/OS-Jackfruit/screenshots/Pasted image (16).png' 
+![Scheduling experiments](screenshots/scheduling_experiments.png)
 
 ---
 
