@@ -1,7 +1,8 @@
 |           Name          |      SRN      |
 |-------------------------|---------------|
-| YOUR NAME HERE          | YOUR SRN HERE |
-| PARTNER NAME (if any)   | PARTNER SRN   |
+| TARUN GOWDA P           | PES1UG24AM303 |
+| TANISHK GOWDA           | PES1UG24AM301 |
+| TARUN J                 | PES1UG24AM304 |
 
 ---
 
